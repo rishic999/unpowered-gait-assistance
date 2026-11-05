@@ -26,9 +26,3 @@ The design uses the geometry of walking to control the mechanism, without an ext
 
 The patent specification describes the design and its intended applications. The project should not be interpreted as evidence of clinical effectiveness.
 
-## Project materials
-
-The source files are currently available in the owner's ChatGPT Library; they have not yet been uploaded to this repository:
-
-- [Demonstration video](https://chatgpt.com/library?file_id=libfile_b68f0715e77881919e8a9e165227acdc&account_id=personal)
-- [Patent specification](https://chatgpt.com/library?file_id=libfile_764264b197788191bffdf0510f97f60f&account_id=personal)
