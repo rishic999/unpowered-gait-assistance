@@ -2,6 +2,10 @@
 
 A mechanical device designed to assist walking without an external power supply. This work grew out of my research internship at **IIT Bombay**, where I co-invented the mechanism with the research team.
 
+## Demonstration
+
+[Watch the demonstration video](https://photos.app.goo.gl/gsKCfC6fHJjc56cw9)
+
 ## The problem
 
 Walking depends on coordinated movement of the foot and ankle. For people with weakened muscles, including some people recovering from a stroke, lifting the heel during walking can be difficult. The project explored a mechanical way to provide assistance at that point in the gait cycle.
@@ -19,9 +23,10 @@ The design uses the geometry of walking to control the mechanism, without an ext
 
 ## Patent and attribution
 
-- **Title:** A Controlled Unpowered Device for Assisting Gait
+- **Title:** [A Controlled Unpowered Device for Assisting Gait](https://rnd.iitb.ac.in/node/2186)
 - **Indian patent:** 532535; application 202121023832
-- **Applicant:** Indian Institute of Technology Bombay
+- **Assignee:** Indian Institute of Technology Bombay
+- **Inventors:** Rishi Chauhan, Rajbeer Singh Anand, Anirban Guha, and Neeta Kanekar
 - **Contribution:** Co-invented the gait-assistance mechanism during an IIT research internship.
 
 The patent specification describes the design and its intended applications. The project should not be interpreted as evidence of clinical effectiveness.
